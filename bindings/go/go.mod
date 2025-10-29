@@ -1,4 +1,4 @@
-module github.com/linux-china/tree-sitter-powershell/bindings/go
+module github.com/tree-sitter/tree-sitter-powershell
 
 go 1.22
 
